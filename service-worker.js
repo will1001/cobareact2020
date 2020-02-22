@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cobareact2020/precache-manifest.167ae13dfd4d8cf3c94cf2a3de83dcf3.js"
+  "/cobareact2020/precache-manifest.808dcb871a72a2c5c411f3ea2d91c58b.js"
 );
 
 self.addEventListener('message', (event) => {

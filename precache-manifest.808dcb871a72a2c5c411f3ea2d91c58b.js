@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "683392dafc184973437b641591427354",
+    "revision": "c6b78332a998d0df127951f8ec7d1e59",
     "url": "/cobareact2020/index.html"
   },
   {
-    "revision": "6709628a304237c8c520",
+    "revision": "48056c9a882e7ae997d1",
     "url": "/cobareact2020/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cobareact2020/static/js/2.b6fabe4d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6709628a304237c8c520",
-    "url": "/cobareact2020/static/js/main.014776d7.chunk.js"
+    "revision": "48056c9a882e7ae997d1",
+    "url": "/cobareact2020/static/js/main.df9d86fc.chunk.js"
   },
   {
     "revision": "b12a93773ddbd652f8a0",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cobareact2020/static/css/main.d1b05096.chunk.css",
-    "main.js": "/cobareact2020/static/js/main.014776d7.chunk.js",
-    "main.js.map": "/cobareact2020/static/js/main.014776d7.chunk.js.map",
+    "main.js": "/cobareact2020/static/js/main.df9d86fc.chunk.js",
+    "main.js.map": "/cobareact2020/static/js/main.df9d86fc.chunk.js.map",
     "runtime-main.js": "/cobareact2020/static/js/runtime-main.deb46c2e.js",
     "runtime-main.js.map": "/cobareact2020/static/js/runtime-main.deb46c2e.js.map",
     "static/js/2.b6fabe4d.chunk.js": "/cobareact2020/static/js/2.b6fabe4d.chunk.js",
     "static/js/2.b6fabe4d.chunk.js.map": "/cobareact2020/static/js/2.b6fabe4d.chunk.js.map",
     "index.html": "/cobareact2020/index.html",
-    "precache-manifest.167ae13dfd4d8cf3c94cf2a3de83dcf3.js": "/cobareact2020/precache-manifest.167ae13dfd4d8cf3c94cf2a3de83dcf3.js",
+    "precache-manifest.808dcb871a72a2c5c411f3ea2d91c58b.js": "/cobareact2020/precache-manifest.808dcb871a72a2c5c411f3ea2d91c58b.js",
     "service-worker.js": "/cobareact2020/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/cobareact2020/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.b6fabe4d.chunk.js.LICENSE.txt": "/cobareact2020/static/js/2.b6fabe4d.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.deb46c2e.js",
     "static/js/2.b6fabe4d.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.014776d7.chunk.js"
+    "static/js/main.df9d86fc.chunk.js"
   ]
 }
